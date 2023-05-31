@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Scrapify/static/css/main.e724f110.css",
+    "main.js": "/Scrapify/static/js/main.05660a99.js",
+    "static/media/laptop.jpg": "/Scrapify/static/media/laptop.49c1af4b303bb0a96834.jpg",
+    "static/media/01.png": "/Scrapify/static/media/01.1b99d8cc04ba3319ddad.png",
+    "static/media/03.png": "/Scrapify/static/media/03.8f320982792a68b8d98e.png",
+    "static/media/02.png": "/Scrapify/static/media/02.ee3852fe67b61fec22f9.png",
+    "static/media/04.png": "/Scrapify/static/media/04.7b0f2ec1ec850985bd83.png",
+    "static/media/AC.jpg": "/Scrapify/static/media/AC.8265d15c1da7b3f02364.jpg",
+    "static/media/mobile.jpg": "/Scrapify/static/media/mobile.38fcf44f6edf37fdab9c.jpg",
+    "index.html": "/Scrapify/index.html",
+    "main.e724f110.css.map": "/Scrapify/static/css/main.e724f110.css.map",
+    "main.05660a99.js.map": "/Scrapify/static/js/main.05660a99.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e724f110.css",
+    "static/js/main.05660a99.js"
+  ]
+}
